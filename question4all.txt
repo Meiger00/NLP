@@ -1,4 +1,3 @@
-If you could add or change one thing to Spiro that would really help you, what would it be?
 none
 Make it easier to compress views onto a single page; scrolling side to side is always annoying.
 Login
