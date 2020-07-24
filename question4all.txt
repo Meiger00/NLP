@@ -1,0 +1,292 @@
+If you could add or change one thing to Spiro that would really help you, what would it be?
+none
+Make it easier to compress views onto a single page; scrolling side to side is always annoying.
+Login
+havent used it enough to make that determination
+I would improve the contact-list upload method.
+It would be useful to upload an excel file with contacts and data without following your template
+Simplify the reports
+Nothing
+auto syncs with cell phone activity to capture texts, emails and calls to client log
+reminders
+Update the BI/Reports 2 times a day
+N/a
+The flexibility to choose whatever dashboards I want in my main spiro dashboard
+The search functionality
+Easier ability to review and search notes timeline
+When creating a new company, it would be nice to enter the website address (in the website field) and have the phone number and address info pre-populate
+Making the accounting module easier (and a tablet app)
+Am a novice but once I am an expert, I'll let you know.
+better control over what my team can see and can't see
+Easy customized fields or edit ability for all current field titles or categories.
+not sure
+provide users more ability to change data points
+Ease of use. Make it super intuitive. Get more feedback from customers in real time and make updates to your app on that actionable data. ALL. THE. TIME.
+Better integration into outlook/linkedin sales navigator
+Right now the contact tabs in the opportunity is confusing my team.
+Nothing, I am fairly content with the product
+A task view for my team to keep track of reminders/deliverables to keep opportunities moving. And (if I can get away with two things) easier filtering of opportunities by custom fields.
+address look up
+Being able to search by address
+A dashboard that pops up as the home page on the app showing sales metrics
+To be able to search by the address
+Add address look up
+Not sure at this moment
+"Allow for the admin to choose a format of how to record particular data, so everyone at the company follows the same format. So that when a search is done I do not need to enter various options.
+
+Example: State: MA, Mass, Massachusetts, Ma
+
+Prompt to ask for Customer Type, and Division. These are two areas that get missed in our company.
+
+If the contact does not have a customer number, they should not come up as an account. When I search NY for my accounts, everything under my name will come up. There should be a better way of doing this."
+The ability to duplicate opportunities
+More in depth customer profile page
+I Think I answered that in the previous question. I would definitely be more than happy to have a conversation about this.
+Develop the app and have the AI be more powerful almost like an assistant with its own brain
+"I'd make the phone app easier to navigate especially when on the go. For example, takes less taps to search for a client on my phones contact list than it does on spiro. I can call clients or text them on the go directly from my cell with siri but voice assistance isn't available for spiro. Currently there is a glitch in spiro where if I look at ""Client A's "" reminders then jump to ""Client F"", it'll show the previous reminders / activity from Account A. I need to manually refresh for this. 
+
+We currently have a 1888 customer service line for our canadian team using Grasshopper. All of our marketing material has that phone number on it. Would we be able to forward calls from the Grasshopper number to CP Canada's spiro number?"
+Ability to make lists easier
+The activity log is funky in that incoming messages show as if they were sent messages, IE they say to _____, instead of from _____, because of which they also don't always filter to the top, nor do they show times, only dates they were sent/received inside the text stream.
+I would change the phone call settings as far as it dropping the calls when receiving one.
+More customization of the "Next Steps" disposition pop up. Also customization of the Spiro dashboard/home screen on the stat bubbles to include all activities (like texts and emails, not just calls)
+Maybe incorporating more videos/training into how to get the most out of the AI, interface on its own. I've watched the required videos for training but am always keen on learning more ways to optimize my usage. In the future, it would be nice to see some sort of workspace/note taking section where we can organize and access notes (similar to the app Notion).
+integration to LinkedIn, Yelp, and Facebook for sure.
+Better way to filter through your "contacts" not separated very easily from a "lead" "contact" with out the filter.
+Mass text ability.
+Mass text messages
+Put extenstions into main number. Also, be able to have several numbers at the company level (main number, lab number and with contact number at contact level).
+Manual config of the email connectivity and what it peers into the mailbox for.
+Having it work with my desk top phone it's very time consuming for me to manual enter all calls. I miss a lot that way.
+Nothing. I like Spiro a lot.
+On demand training?
+We are still in infancy mode, so we haven't truly stressed tested it.
+easier importing of data
+lag time in synchronizing, specifically emails
+Not really a Spiro issue, not sure, but when we set things up in Spiro, they do not mirror our Intercom categories, so this can make things a little more confusing. But one thing that has always confused me is the linking of a customer to an opportunity. and it would be great if one could enter a new person, add a new company (for us a school or district) and if is not in database, it automatically creates this new school or district. Otherwise is a cumbersome process.
+See aforementioned note about keyboard navigation. Also, it would be nice to be able to customize the number of rows on a given page (opportunities, contacts, etc are currently limited to 15 rows per page).
+Have customers and contacts together.
+easier email campaigns
+See answer 3. Better task management; Reporting; Project Management
+Display more lines of data (opportunities) on the opportunity screen.
+when I enter a campaign i would love to be able to send out on their behalf with their email and contact info- save time on both ends
+a dynamic dashboard/reporting feature. The ability to sort and filter opportunities quicker and easier
+We would love to ba able to use it more for solving customer service issues instead of just keeping track of them
+I liked the old layout better. Contacts are harder to find now. I also wish reporting was easier.
+i would want spriro to be reliable everyday. seems very "buggy" and inconsistent of late
+One idea I had recently is if a number is associated with more than one contact/ccompany, when you call them through spiro, it asks you which contact you would like to log the activity with, rather than automatically choosing.
+more customer support and call resolution features
+it does not work well for a customer service platform
+Better search bar, wider so we can see the company they're from all the way instead of it being cut off. I don't like the new update where there are the tabs instead of the scrolling.
+Having the ability to just be notified there is a matching phone number to another contact. This would ensure we do not have multiple reps calling the same individual. People will change their email addresses but typically, phone numbers stay the same.
+Add maps which is being done
+A map of where contacts are located
+Its already in the works - a map. However, it doesn't quite sound like its going to be beneficial for QUITE some time. I can download my Spiro data and easily create a Google Map with the fields as is. Apparently, to get this program up and running, we have to manually input 31k zip codes in order for this to be accurate.
+So far everything is good to me
+timeline and reminders back on the same tab.
+Being able to organize tasks in order on Reminder page
+There isn't really anything that I would add or change.
+The assistant. The assistant should NOT complete reminders for the wrong people
+See my answer to question 3
+The ability to text even if phone number is tied to a landline.
+I would love to see best practices area from other companies on how they use the platform.
+Easier way to merge the accounts. We have a lot of accounts that have multiples and it makes it a bit difficult.
+Less fields to enter on opportunities
+Bcc'd emails added to accounts
+Marketing platform built in.
+project (opportunity) number. I have many repeat customers so distinguishing between multiple projects from one source would be helpful.
+Nothing much
+Nothing at this time. It's easy to log communication, it syncs with our email accounts, and you can easily set reminders for future follow up.
+The steps in setting up a reminder on an opportunity while you are creating the opportunity.
+maybe having everything more together
+Recently this became better, but I don't know if it was due to our settings or due to Spiro. It seemed like it took too long to set up opportunities. I was having to add the contact name and information every time on the opportunity, even though it was already in the system. Now I only have to enter the company name and website address, making it faster. However, it would be nice to have a dropdown to assign the opportunity to the contact without typing things in.
+Revise opportunities from one screen
+visibility of team info to share and compare
+I'd like more ability to upload mass data
+Flexibility
+Reports should be easier to create
+Put all information back on one page for opportunities
+Making the app much easier to use. I donâ€™t like the app at all, so I stay with the Web based version
+User support
+customize reports easier
+predict who will closed based on api data from Mail Chimp, Google Ads, Facebook, Our Platform and so on
+the ability to sort through opportunities in more ways and so that it organizes properly
+If it does not exist, online chat for simple questions
+Licensing cost
+Better view of Contact/Client List
+More integration with other systems.
+be able to see timeline items in both contacts and companies
+Dont have assistant create new company along with contact as many times company names dont link and it creates new companies when not needed. Allow the person to assign a company before allowing AI to load new contact
+Simplifying the "opportunity" field so that entering the associated information is easier.
+Better symmetry between customer activity and opportunities
+Adding attachments to mass emails
+Further customization of reports/formatting of reports
+better integration with netsuiite
+Make the quoting function easier
+Faster sync from NetSuite
+Make the AI assistant be much more powerful with and instant response
+Quick and easy entry of data
+Ability to teach the AI and to increase the hit rate on auto-population of info
+I'll let you know the more I use it! But right now it's not being able to change certain columns within the CMS.
+WhatsApp and LinkedIn integration +marketing automation
+Cross talk ability and the option to be able to recognize previously added information
+Have so can start with previous entry so that don't have to start from scratch each time.
+"As stated in my previous answer, reduce data input
+duplication from screen to screen. In addition, if
+a record already exists there should be a way to copy the main data."
+Change the size of columns in the Opportunity section and have the ability to move columns around without having to change the placemnet of this in the "settings"
+Make it able to add data in any section
+Change the drop downs to be more useful
+Not sure
+have better drop down options
+Adding the entities to the company list page - it makes filtering a million times more simple! That's all we need!
+Be able to have more flexibility to tailor the product more in the needs of my company
+I would change the way that Contacts are tracked.
+Only have to use one page to enter a new company, contact, and opportunity.
+I struggle with finding/creating specific filters for a search to pull data - but this could be a user error on my end.
+built in phone dial
+easier reporting
+I would like to have an overview of all of my recent notes and accounts in one spot instead of having to search the account you are working with, and then click in each individual note to view it
+Nothing. Does exactly what I need it to.
+entering the same note for multiple accounts at one time.
+See previous page
+Improving the contact search filters. currents many of the choices don't really work
+
+bulk updates to fields
+the ability to do mass field updates on my own
+being able to add people on calls
+more dynamic reporting
+See Big picture, Parent/Child/Contact.
+If a contact is entered in Outlook it automatically updates in Spiro
+Being able to set up individual reports
+Have more organization for the facilities section
+Easier way to link contacts to accounts
+Looking forward to having more sales data loaded And easily accessible (might be my company)
+As a manager, better analytics on rep activity.
+I think everything we ask for is being addressed
+authorization for admin within our company to adjust functionality
+a map with all customers shown. Would be very useful to coordinate accounts based off of map location.
+Integrate to enterprise VOIP phone systems
+More functional workflow for calling and interacting with key decision makers.
+Fix the data integrity problems. I have now seen 5 cases where the number either shown in pipe, shown on a dashboard, or exported is either wrong, or not rolled up right, or is stale - modern tools should have interactive data based on the current data state - not stale.
+- Native Multi-Currency support - I know it's on the roadmap but would love to see that ASAP
+Improve UI (so much unused space that you can't adjust and the pieces where you input data is so small) so it's easier to work in day to day.
+Missing a lot of functionality. Hard to pick one.
+Include third-party widgets like having a ChurnZero widget appear in Spiro so all team members can see valuable visulizations only stored in ChurnZero.
+more out of the box integrations
+More intuitive. Ability to create dashboards, graphs more easily
+Better sync of information with other tools such as CZ
+chat in Spiro, email squence, making email in spiro sucks, why are campaigns only 500 leads ... , better way to moves deals along to have more vision.
+being able to see notes and communications across all accounts, opportunities & contacts without haven't to switch to each section.
+Better email tracking / syncing.
+A counter in the import/update tool that counts the number of fields auto matched. It takes a long time to determine what field is missing in an import. Further, not being able to map fields in an update is frustrating.
+The ability to modify a report for the individual's view only.
+I would love to be able to TAB from one field to another across each row when entering a new Company or Contact. Right now, the TAB feature jumps the cursor all over the webpage.
+Scheduling a set of activities. For instance, remind me to send an email to my prospect "John Doe" every Monday at 1 pm for the next 4 weeks and terminate the activity when the fourth instance has been addressed. (Of course, all activities would be recorded within the timeline tab...)
+The ability to clone opportunities.
+easier to update
+Me to look at what someone on my team did the day before, the week before the month before by a drop down of names and dates
+Conference calling through the phone
+Easier Reporting to Clients when we are selling their assets. (For real estate). Be able to send out a report on who we are talking, and what is the feedback.
+When I am on the phone, it kicks other calls right to voicemail. Would rather it ring.
+Add a picker and make it easier to link people and properties together with prospective buyers
+Easier search engine for key words.
+Conference calling
+"Ability to integrate Yesware into spiro. I spend a lot of time in Gmail and would LOVE if every time a contact in spiro opened an email/clicked a link etc. that the information populated into Spiro. When I was a salesforce user we had the ability to do this and it prioritized leads based on this information.
+
+I can imagine a world where my ""assistant"" suggests who I reach out to based on who is most engaged with me. This would be a game-changer."
+"Would be cool to see a network graph of how projects move within pipelines.
+
+For example, most of our projects (""opportunities"") move from prospecting>proposing>estimating>closing, but seeing a visual of what projects take another route, such as prospecting>proposing>not bidding.
+
+I recognize this is likely a coding challenge but it would be a neat feature."
+Nothing comes to mind at the moment!
+Be able to set Personalized reminders for follow ups.
+I would add the ability for the end user to add custom fields that data can be tracked with, like type of HVAC system or other things specific to our company.
+upgrade the app
+I would make it let you set personalized reminders on when to follow up that get sent to your email.
+the phone integration would work
+be able to have duplicate email / contact
+Native integrations to some sales enablement tools like seamless, hunter
+ability to add marketing/prospecting activities such as events
+a little more ease with drip campaigns
+I would like to see a way to track prospecting activities or events
+navigating with the tab button instead of having to always use the mouse
+the ability to speed dial prospects.
+More API features to enable seamless integration
+I would love to be able to create reminders at the opportunity level for anyone, not just the Account Manager. There are likely more than one person involved with each account so to assign reminders to multiple people would be awesome.
+Make the sales figures dashboard (when you first login) customizable and/or able to be hidden (or at least parts of it that aren't as applicable). Ability to toggle on/off the assistant per opportunity. Ability to follow a specific opportunity (get email notifications for any activity on a specific opportunity, regardless of owner).
+The ability to customize the Sprio homepage metrics such as win rate, etc.
+Being able to call prospects directly from reminders. Open the reminder click to call or email directly from there.
+Nothing at the moment!
+It would be what I described above
+Would love to add more features that sync with Linkedin and Slack.
+Remove the bugs I previously mentioned. Having to hard refresh is a waste of time.
+"That we could run email/call campaigns similar to how Tellwise runs campaigns. I.E. In Tellwise I'm able to create a ""Salesflow"" where step one is an email, step two is a call, step three is another email and on from there.
+
+The great part about Tellwise is I can create as many emails as I want to be part of that flow and add up to 500 contacts to the Salesflow. If/when someone responds to an email they are automatically removed from that campaign (but I can add them back in if I want). Each flow can be customized with the emails we create and targeted to the groups we want to receive them, and each step can be spaced out based on our preference of how many days we want to lapse before the next step starts. It's a great automation that is very helpful and efficient."
+definitely the reporting function
+Being able to populate sub companies under a parent company in a more efficient manner
+have an Extension within Outlook. (ex: right now I have to send another email to the AI engine for instance to set a reminder. If the extension could give me a few options right before I send an email out: set reminder, track answer etc.)
+Make reporting easier to use
+Another Spiro product designed to specifically address customer support.
+Adding ability to add pictures to contact records.
+Set a reminder without a company
+Updates to the opportunities
+I would like to be able to add photos and emojis when texting.
+Nothing
+Pricing for team version
+executive summary
+Add the ability for spiro to take emails from different opps but same person and organize them per opportunity
+Make it faster
+The reliability of the phone feature and Apple Watch app
+Update the mobile app.
+See answer to 3
+Go back to the old view.
+Just that the Contact relationship not the sales lead aspect would be more developed
+It would blend in better with our current quote system. This would increase usage among our team I believe.
+Addition of a robust/integrated quoting tool/platform
+Integrate with Outlook
+Data visualization and interaction, logging activities
+To be able to amend the company within the contact screen instead of having to go out, set up a separate company in the company section and then add it to the contact.
+Real-time updating with reporting tool.
+An autocopy opportunity for deals that aren't everymonth but can run two three months or sporadically over year
+The reports - both in ease of generation, and it would be nice if they exported in the same format (colors, etc) as what you see in spiro.
+I would like to see it log my phone calls to my customers without having to enter them myself. I know it has a option of running it thru a spiro phone # but there should be a way yhat it could track like it does email. i know i miss logging a lot of calls because i have to enter them all in spiro by hand.
+
+It would really help if the added information would populate on our reports immediately.
+not sure
+I wish the scroll bars were a little bigger or more distinct.
+Easier search to find costumer
+interaction through SIRI on my phone
+text message integration from computer
+Best Practices Explained, since it is so customizable, it is hard to determine how to best set it up
+Customize home page
+"Under reports, dashboard, summary...when I click the invoiced dollar amount on the top, I would like to see who the customer and sales order are for that dollar amount. Filter
+Sort
+
+POD Date Amount Normalized Inv Table
+LYNDA 30 Jun, 2020 00:00:00 20567.7 20567.7 Invoiced 2
+LYNDA 30 Jun, 2020 00:00:00 576.72 576.72 Invoiced 2
+LYNDA 30 Jun, 2020 00:00:00 410.4 410.4 Invoiced 2
+LYNDA 30 Jun, 2020 00:00:00 2003.3"
+acurete reports
+I would like to be able to access Line item Reporting for past months. At this time I can only see the current month's Line Item details for each Project.
+add data management. be able to link all files and revisions, (similar to Product data management, PDM). Maybe use a third party app for proposal generation since google docs doesn't seem to generate quotes in a comparable format like MS word.
+better quoting functionality
+Mobile device reporting, size/data readout.
+Ability to add new line to existing modified proposal
+For projects we designate a bid date and award date. It would be awesome if we could automatically get reminders on these dates so we can update accordingly
+More report customization similar to salesforce's reporting software
+more automation
+Make it easier to access attachments
+the notes section
+A more visible notes section for CC Contact/ CC No Contact
+put the timeline back the way it was, mess but better than it is now
+the ability to add up to 1,000 + people within an email blast campaign. Adding more functions to email blast campaigns (Videos, more customization)
+Make VoIP work
+More individual user customization.
+Just work without issues
+I would move back settings button to the menu on the left
+Off line use
+Easier reporting functions
