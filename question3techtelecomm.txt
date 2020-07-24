@@ -1,0 +1,28 @@
+working with the assistant via email
+The Spiro product doesn't serve me as well as MS Outlook in my position as Product Support Manager.
+The reports
+The Opportunity screens do not display enough lines of data. It's difficult to go through the screens to see the opportunities. The reports don't update when a change is made to the raw data. It takes a while. Too may unnecessary fields on opportunity screens.
+That if I have a contact and a separate opportunity for that same client, there is an issue with viewing; if a reminder is linked to an opportunity, the details don't show up when we run a report.
+Reports available.
+Reporting tool does not update in real time, this has been very frustrating.
+reporting
+"Reminders system still needs a major overhaul. My team would love to use it but itâ€™s too cumbersome and inefficient. Numerous potential improvements available.
+
+Reports are pretty good - but there are still some things that just canâ€™t be done as expected. I end up having to export to Excel too frequently... would love to be able to view in Spiro Reports without the extra steps.
+
+Better project management functionality. We have to use another solution for this. Would like to have in 1 system instead of 2 - and the integration between them is not that great."
+Nothing really comes to mind here
+Notes and descriptions feel clunky. When replying to meeting emails to write notes, the notes are applied to contacts, rather than opportunities. The detailed view of an opportunity has too much padding around many fields, so the screen feels low-info-dense, and I'd rather see more of the description.
+Not able to track ongoing projects
+none so far
+None comes to mind right now
+needs to be more up to date with today's world functions and capabilities. Quote functions
+Mouse is required to navigate. Too many clicks to create opportunity. I would like more keyboard navigation capabilities (tab between fields and complete forms using keyboard only).
+integration with other tools
+Inability to clean up some bad data that gets brought in automatically through connections to Linkedin and Google. Similarly, the inability to add pictures of contacts through any means other than what comes in from Linkedin.
+If I'm doing lots of activities from contact list I can't disable pop up schedule next event. Cumbersome if I'm doing hundreds of cold calls
+I think the user interface could be more elaborated
+creating reports not as intuitive as would like
+cant save a reminder w/o a company
+campaign creation
+BI only updates once a day.
