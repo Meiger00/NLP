@@ -1,0 +1,53 @@
+Your IP phone is not so good
+Your dialer keeps cutting out.
+Would love to have suggestions on improving our sales and lead process based on best industry recommendations that you come upon when working with other businesses like ours.
+Won't let me add a duplicate contact if the same email is part of another record.
+When I add contacts into my system they are also mixed in with my other leads so it makes it difficult to maneuver sometimes. Also no mess text abilities.
+What I dislike about Spiro is how sometimes it will go slow or drop my calls in the middle of a conversation.
+User interface within opportunities
+Too soon to say, just started using it
+Toggling through all the pages. I wish you could see a master list.
+There is nothing I dislike, but there is a feature missing imo. That's calendar, rather than the list of task, where you can drag and drop such tasks. Salesforce have smth similar - I found it quite useful.
+the set up
+The reports
+The fact that its not compatible with my browser which makes working Spiro difficult and constantly crashes the program. The new update with timeline, reminders, & opportunities in different tabs. My assistant never seems to work. Something always going wrong after an update. Product updates that would really help improve our processes are either not listened to or takes years to implement. You can't filter by reminders/blank. When we put people in the trash, I would like to never see those again unless I went to a special place to WANT to see them.
+The fact it does not recognize and notify you of duplicate phone numbers for contacts.
+The clunky UX in simple tasks- having to count import fields to make sure they all match up, not being able to tab between fields while inputting new records, not being able to have dynamic custom fields, etc
+The campaign function. It could be user error, but I would like to be able to add a company from the companies listing to a campaign.
+The assistant will glitch and if you don't catch it, you will "complete" a reminder for the wrong person. Then that person slips between the cracks and the only way to find them is the go back into activities and create a new reminder for that person. & for some reason our whole office has text messages in the negative. Such as "-2" text messages. Other than that, we're good.
+That I canâ€™t merge companies together
+Spiro is always slow. It doesn't recognize duplicate contacts (phone numbers, names, etc.)
+Sometimes it's not user-friendly enough
+Some issues with the phone service
+Searching
+Reports are difficult to create.
+Reporting Module
+Reporting
+Report interface looks different, some parts have to be manually switched on by support eg phone number
+reminders
+Product maturity is the best term I can think of for this question. The team at Spiro has been uber responsive since day 1. But there are countless details associated with being an early adaptor that are often frustrating on any given day.
+poor email connetion and Mobile app phone calls not working.
+Not the most intuitive â€“Â we keep asking ourselves, why don't we use this to its maximum capability, and I think it's lack of user friendliness. It's at about 80% for user friendly, but for me to use an app 100% of the time it's got to be at 100% user friendliness.
+Not being able to prioritize tasks in order on task page
+no Conference call
+No complaints at this time - keep up the good work!
+Mornings/days after updates are always a nonproductive day. Usually a lot of bugs and things switched around that were fine where they were before. Small stuff
+Major Updates delete information like recorded calls
+Lot of features to take advantage of, would love a more detailed approach on how to start incorporating them into our process
+Linking opportunities to contacts to leads etc. can be confusing.
+Linking leads and campaigns...no picker
+It's more so a learning curve with reporting. Feels like there is a lot that can be done and I'm just scratching the surface.
+It would be helpful to be able to create campaign emails within the campaign function instead of having to go to my settings.
+It was a challenge initially to reorganize accounts, since Spiro only allows one account per email address. We have several customers who own multiple businesses or are buyers for multiple accounts, so we had to make some adjustments from our previous CRM.
+It does seem like the application is more of a 'beta' release than a full release, but general functionality works so we're making do.
+Issues with phone calls
+importing database is too complicated
+If it was possible to have several "dashboard" views it may be easier to navigate.
+I wish the whitelist feature was more effective.
+I wish i didn't have to sign in everytime I click on a new lead on my email
+how complicated it is to customize reports
+Get confused between contacts, companies, and opportunities
+From time to time, when I search for a company or contact from the taskbar and click on my selection, it does not always compute. It can take a few tries before the webpage changes to account for my selection.
+doesn't work as advertised
+Difficulty updating opportunities from one main screen
+At times the glitches get a little out of control
