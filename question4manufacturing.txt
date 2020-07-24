@@ -1,0 +1,65 @@
+We would love to ba able to use it more for solving customer service issues instead of just keeping track of them
+We are still in infancy mode, so we haven't truly stressed tested it.
+visibility of team info to share and compare
+The activity log is funky in that incoming messages show as if they were sent messages, IE they say to _____, instead of from _____, because of which they also don't always filter to the top, nor do they show times, only dates they were sent/received inside the text stream.
+"That we could run email/call campaigns similar to how Tellwise runs campaigns. I.E. In Tellwise I'm able to create a ""Salesflow"" where step one is an email, step two is a call, step three is another email and on from there.
+
+The great part about Tellwise is I can create as many emails as I want to be part of that flow and add up to 500 contacts to the Salesflow. If/when someone responds to an email they are automatically removed from that campaign (but I can add them back in if I want). Each flow can be customized with the emails we create and targeted to the groups we want to receive them, and each step can be spaced out based on our preference of how many days we want to lapse before the next step starts. It's a great automation that is very helpful and efficient."
+Simplifying the "opportunity" field so that entering the associated information is easier.
+See previous page
+See Big picture, Parent/Child/Contact.
+Remove the bugs I previously mentioned. Having to hard refresh is a waste of time.
+Only have to use one page to enter a new company, contact, and opportunity.
+One idea I had recently is if a number is associated with more than one contact/ccompany, when you call them through spiro, it asks you which contact you would like to log the activity with, rather than automatically choosing.
+Nothing. Does exactly what I need it to.
+Not sure
+none
+More individual user customization.
+More customization of the "Next Steps" disposition pop up. Also customization of the Spiro dashboard/home screen on the stat bubbles to include all activities (like texts and emails, not just calls)
+more customer support and call resolution features
+more automation
+Me to look at what someone on my team did the day before, the week before the month before by a drop down of names and dates
+Maybe incorporating more videos/training into how to get the most out of the AI, interface on its own. I've watched the required videos for training but am always keen on learning more ways to optimize my usage. In the future, it would be nice to see some sort of workspace/note taking section where we can organize and access notes (similar to the app Notion).
+Make VoIP work
+Make it easier to compress views onto a single page; scrolling side to side is always annoying.
+Just that the Contact relationship not the sales lead aspect would be more developed
+It would blend in better with our current quote system. This would increase usage among our team I believe.
+it does not work well for a customer service platform
+integration to LinkedIn, Yelp, and Facebook for sure.
+Integrate with Outlook
+If a contact is entered in Outlook it automatically updates in Spiro
+I'll let you know the more I use it! But right now it's not being able to change certain columns within the CMS.
+"I'd make the phone app easier to navigate especially when on the go. For example, takes less taps to search for a client on my phones contact list than it does on spiro. I can call clients or text them on the go directly from my cell with siri but voice assistance isn't available for spiro. Currently there is a glitch in spiro where if I look at ""Client A's "" reminders then jump to ""Client F"", it'll show the previous reminders / activity from Account A. I need to manually refresh for this. 
+
+We currently have a 1888 customer service line for our canadian team using Grasshopper. All of our marketing material has that phone number on it. Would we be able to forward calls from the Grasshopper number to CP Canada's spiro number?"
+i would want spriro to be reliable everyday. seems very "buggy" and inconsistent of late
+I would like to see it log my phone calls to my customers without having to enter them myself. I know it has a option of running it thru a spiro phone # but there should be a way yhat it could track like it does email. i know i miss logging a lot of calls because i have to enter them all in spiro by hand.
+I would like to have an overview of all of my recent notes and accounts in one spot instead of having to search the account you are working with, and then click in each individual note to view it
+I would change the way that Contacts are tracked.
+I would change the phone call settings as far as it dropping the calls when receiving one.
+I Think I answered that in the previous question. I would definitely be more than happy to have a conversation about this.
+I liked the old layout better. Contacts are harder to find now. I also wish reporting was easier.
+Have so can start with previous entry so that don't have to start from scratch each time.
+have better drop down options
+entering the same note for multiple accounts at one time.
+easier importing of data
+Develop the app and have the AI be more powerful almost like an assistant with its own brain
+definitely the reporting function
+Data visualization and interaction, logging activities
+customize reports easier
+Cross talk ability and the option to be able to recognize previously added information
+Change the drop downs to be more useful
+Better way to filter through your "contacts" not separated very easily from a "lead" "contact" with out the filter.
+Better symmetry between customer activity and opportunities
+Better search bar, wider so we can see the company they're from all the way instead of it being cut off. I don't like the new update where there are the tabs instead of the scrolling.
+better control over what my team can see and can't see
+Being able to set up individual reports
+be able to have duplicate email / contact
+"As stated in my previous answer, reduce data input
+duplication from screen to screen. In addition, if
+a record already exists there should be a way to copy the main data."
+Am a novice but once I am an expert, I'll let you know.
+Addition of a robust/integrated quoting tool/platform
+Adding attachments to mass emails
+Ability to teach the AI and to increase the hit rate on auto-population of info
+Ability to make lists easier
