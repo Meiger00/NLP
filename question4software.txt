@@ -1,0 +1,15 @@
+Put extenstions into main number. Also, be able to have several numbers at the company level (main number, lab number and with contact number at contact level).
+Nothing
+more out of the box integrations
+More intuitive. Ability to create dashboards, graphs more easily
+More functional workflow for calling and interacting with key decision makers.
+Missing a lot of functionality. Hard to pick one.
+Manual config of the email connectivity and what it peers into the mailbox for.
+Include third-party widgets like having a ChurnZero widget appear in Spiro so all team members can see valuable visulizations only stored in ChurnZero.
+Improve UI (so much unused space that you can't adjust and the pieces where you input data is so small) so it's easier to work in day to day.
+I would like to be able to add photos and emojis when texting.
+Fix the data integrity problems. I have now seen 5 cases where the number either shown in pipe, shown on a dashboard, or exported is either wrong, or not rolled up right, or is stale - modern tools should have interactive data based on the current data state - not stale.
+chat in Spiro, email squence, making email in spiro sucks, why are campaigns only 500 leads ... , better way to moves deals along to have more vision.
+Better sync of information with other tools such as CZ
+being able to see notes and communications across all accounts, opportunities & contacts without haven't to switch to each section.
+Native Multi-Currency support
