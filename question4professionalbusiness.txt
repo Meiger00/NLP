@@ -1,0 +1,54 @@
+Would love to add more features that sync with Linkedin and Slack.
+When I am on the phone, it kicks other calls right to voicemail. Would rather it ring.
+User support
+Updates to the opportunities
+timeline and reminders back on the same tab.
+There isn't really anything that I would add or change.
+The steps in setting up a reminder on an opportunity while you are creating the opportunity.
+the phone integration would work
+The assistant. The assistant should NOT complete reminders for the wrong people
+The ability to modify a report for the individual's view only.
+the ability to do mass field updates on my own
+The ability to clone opportunities.
+So far everything is good to me
+Simplify the reports
+Scheduling a set of activities. For instance, remind me to send an email to my prospect "John Doe" every Monday at 1 pm for the next 4 weeks and terminate the activity when the fourth instance has been addressed. (Of course, all activities would be recorded within the timeline tab...)
+Right now the contact tabs in the opportunity is confusing my team.
+Revise opportunities from one screen
+Reports should be easier to create
+Recently this became better, but I don't know if it was due to our settings or due to Spiro. It seemed like it took too long to set up opportunities. I was having to add the contact name and information every time on the opportunity, even though it was already in the system. Now I only have to enter the company name and website address, making it faster. However, it would be nice to have a dropdown to assign the opportunity to the contact without typing things in.
+Put all information back on one page for opportunities
+On demand training?
+Nothing at this time. It's easy to log communication, it syncs with our email accounts, and you can easily set reminders for future follow up.
+Native integrations to some sales enablement tools like seamless, hunter
+maybe having everything more together
+Mass text messages
+Mass text ability.
+Making the app much easier to use. I donâ€™t like the app at all, so I stay with the Web based version
+Making the accounting module easier (and a tablet app)
+Just work without issues
+Its already in the works - a map. However, it doesn't quite sound like its going to be beneficial for QUITE some time. I can download my Spiro data and easily create a Google Map with the fields as is. Apparently, to get this program up and running, we have to manually input 31k zip codes in order for this to be accurate.
+It would be useful to upload an excel file with contacts and data without following your template
+Improving the contact search filters. currents many of the choices don't really work
+I'd like more ability to upload mass data
+I would move back settings button to the menu on the left
+I would love to be able to TAB from one field to another across each row when entering a new Company or Contact. Right now, the TAB feature jumps the cursor all over the webpage.
+I would improve the contact-list upload method.
+I struggle with finding/creating specific filters for a search to pull data - but this could be a user error on my end.
+Having the ability to just be notified there is a matching phone number to another contact. This would ensure we do not have multiple reps calling the same individual. People will change their email addresses but typically, phone numbers stay the same.
+have an Extension within Outlook. (ex: right now I have to send another email to the AI engine for instance to set a reminder. If the extension could give me a few options right before I send an email out: set reminder, track answer etc.)
+Flexibility
+Easy customized fields or edit ability for all current field titles or categories.
+Easier search engine for key words.
+Easier Reporting to Clients when we are selling their assets. (For real estate). Be able to send out a report on who we are talking, and what is the feedback.
+Ease of use. Make it super intuitive. Get more feedback from customers in real time and make updates to your app on that actionable data. ALL. THE. TIME.
+Conference calling through the phone
+Conference calling
+bulk updates to fields
+Better integration into outlook/linkedin sales navigator
+Better email tracking / syncing.
+Being able to organize tasks in order on Reminder page
+Add maps which is being done
+Add a picker and make it easier to link people and properties together with prospective buyers
+A map of where contacts are located
+A counter in the import/update tool that counts the number of fields auto matched. It takes a long time to determine what field is missing in an import. Further, not being able to map fields in an update is frustrating.
