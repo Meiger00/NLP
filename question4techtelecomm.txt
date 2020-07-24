@@ -1,0 +1,24 @@
+when I enter a campaign i would love to be able to send out on their behalf with their email and contact info- save time on both ends
+Update the BI/Reports 2 times a day
+To be able to amend the company within the contact screen instead of having to go out, set up a separate company in the company section and then add it to the contact.
+The flexibility to choose whatever dashboards I want in my main spiro dashboard
+Set a reminder without a company
+See answer 3. Better task management; Reporting; Project Management
+See aforementioned note about keyboard navigation. Also, it would be nice to be able to customize the number of rows on a given page (opportunities, contacts, etc are currently limited to 15 rows per page).
+Real-time updating with reporting tool.
+predict who will closed based on api data from Mail Chimp, Google Ads, Facebook, Our Platform and so on
+Nothing, I am fairly content with the product
+Nothing much
+not sure
+Not really a Spiro issue, not sure, but when we set things up in Spiro, they do not mirror our Intercom categories, so this can make things a little more confusing. But one thing that has always confused me is the linking of a customer to an opportunity. and it would be great if one could enter a new person, add a new company (for us a school or district) and if is not in database, it automatically creates this new school or district. Otherwise is a cumbersome process.
+N/a
+more dynamic reporting
+Have customers and contacts together.
+easier email campaigns
+Display more lines of data (opportunities) on the opportunity screen.
+being able to add people on calls
+Another Spiro product designed to specifically address customer support.
+An autocopy opportunity for deals that aren't everymonth but can run two three months or sporadically over year
+Adding ability to add pictures to contact records.
+A task view for my team to keep track of reminders/deliverables to keep opportunities moving. And (if I can get away with two things) easier filtering of opportunities by custom fields.
+a dynamic dashboard/reporting feature. The ability to sort and filter opportunities quicker and easier
