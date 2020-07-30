@@ -1,0 +1,31 @@
+a dynamic dashboard/reporting feature. The ability to sort and filter opportunities quicker and easier
+A task view for my team to keep track of reminders/deliverables to keep opportunities moving. And (if I can get away with two things) easier filtering of opportunities by custom fields.
+Adding ability to add pictures to contact records.
+An autocopy opportunity for deals that aren't everymonth but can run two three months or sporadically over year
+Another Spiro product designed to specifically address customer support.
+being able to add people on calls
+Display more lines of data (opportunities) on the opportunity screen.
+easier email campaigns
+Have customers and contacts together.
+I don´t know at this moment based in my job
+I wish I could see a history of how a particular Opportunity progresses thru our different sales stages - how long it is in each stage, when it has moved, etc.
+Integration into Wrike.
+it would be to set a reminder without a company affiliated with it.
+more dynamic reporting
+N/a
+Nil
+Not really a Spiro issue, not sure, but when we set things up in Spiro, they do not mirror our Intercom categories, so this can make things a little more confusing.  But one thing that has always confused me is the linking of a customer to an opportunity. and it would be great if one could enter a new person, add a new company (for us a school or district) and if is not in database, it automatically creates this new school or district. Otherwise is a cumbersome process.
+not sure
+Nothing much
+Nothing, I am fairly content with the product
+Only thing would be that we have to refresh for the changes to show in the accounts.
+predict who will closed based on api data from Mail Chimp, Google Ads, Facebook, Our Platform and so on
+Real-time updating with reporting tool.
+See aforementioned note about keyboard navigation.  Also, it would be nice to be able to customize the number of rows on a given page (opportunities, contacts, etc are currently limited to 15 rows per page).
+See answer 3.  Better task management; Reporting; Project Management
+Set a reminder without a company
+The flexibility to choose whatever dashboards I want in my main spiro dashboard
+To be able to amend the company within the contact screen instead of having to go out, set up a separate company in the company section and then add it to the contact.
+Update the BI/Reports 2 times a day
+Upfront manuals, User's guides, etc. - tips for organizing data that's entered and getting the most out of it.
+when I enter a campaign i would love to be able to send out on their behalf with their email and contact info- save time on both ends
