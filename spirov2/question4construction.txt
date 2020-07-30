@@ -1,0 +1,25 @@
+Ability to add new line to existing modified proposal
+add data management. be able to link all files and revisions, (similar to Product data management, PDM). Maybe use a third party app for proposal generation since google docs doesn't seem to generate quotes in a comparable format like MS word.
+Add the ability for spiro to take emails from different opps but same person and organize them per opportunity
+Be able to set Personalized reminders for follow ups.
+better quoting functionality
+executive summary
+For projects we designate a bid date and award date.  It would be awesome if we could automatically get reminders on these dates so we can update accordingly
+I would add the ability for the assistant to read and comprehend signature lines when forwarding contacts or opportunities.
+I would add the ability for the end user to add custom fields that data can be tracked with, like type of HVAC system or other things specific to our company.
+I would make it let you set personalized reminders on when to follow up that get sent to your email.
+Marketing platform built in.
+Mobile device reporting, size/data readout.
+More report customization similar to salesforce's reporting software
+Nothing comes to mind at the moment!
+On assistant tab have more options than just ignore
+project (opportunity) number. I have many repeat customers so distinguishing between multiple projects from one source would be helpful.
+report builder
+Tab Function throughout all fields.
+the ability to sort through opportunities in more ways and so that it organizes properly
+upgrade the app
+"Would be cool to see a network graph of how projects move within pipelines.
+
+For example, most of our projects (""opportunities"") move from prospecting>proposing>estimating>closing, but seeing a visual of what projects take another route, such as prospecting>proposing>not bidding.
+
+I recognize this is likely a coding challenge but it would be a neat feature."
