@@ -1,0 +1,20 @@
+a little more ease with drip campaigns
+ability to add marketing/prospecting activities such as events
+Adding a function where you can see when your email that you sent is opened
+Being able to call prospects directly from reminders. Open the reminder click to call or email directly from there.
+consistency with reminders matching my tasks
+easier to update
+I would like to see a way to track prospecting activities or events
+I would love to be able to create reminders at the opportunity level for anyone, not just the Account Manager. There are likely more than one person involved with each account so to assign reminders to multiple people would be awesome.
+I'd like to see my report dashboard when I log in
+Licensing cost
+Make the sales figures dashboard (when you first login) customizable and/or able to be hidden (or at least parts of it that aren't as applicable). Ability to toggle on/off the assistant per opportunity. Ability to follow a specific opportunity (get email notifications for any activity on a specific opportunity, regardless of owner).
+More API features to enable seamless integration
+More frequent user webinars.
+More of a Medlogix issue in that a 'data dump' was done too early and involved a lot of duplicative and erroneous information, editing and correcting that has been difficult.
+navigating with the tab button instead of having to always use the mouse
+Nothing at the moment!
+Pricing for team version
+The ability to customize the Sprio homepage metrics such as win rate, etc.
+the ability to speed dial prospects.
+You may laugh but when creating campaigns and email templates, spell check
