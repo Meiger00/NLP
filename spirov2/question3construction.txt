@@ -1,0 +1,21 @@
+1 to 1 relationship with contact and opportunity, because our opportunities have multiple opps to one person.
+Glitches (Sometimes does not let me click on names)
+Hard to pinpoint anything really negative.  Possibly the reporting tool, but mainly because I am still learning it.
+Hard to think of any features I don't like.
+i have two contact tracking tools to deal with now, Outlook and Spiro. I wish there was a way to combine the two and keep them sync'd.
+I'm not sure, but I think custom fields, etc. must be added by Spiro instead of allowing us to customize.
+Interface is good, but could be cleaner
+It does not work on internet explorer.
+It does not work with internet explorer, only google chrome.
+It's kind of hard to create reports for our specific use
+Lack of marketing (sem, social, email marketing) tools.
+None found at this time
+Quoting ability limited, tab to next box functionality doesn't exist
+Quoting is clunky. not intuitive to enter all the required info. can't edit order of products
+reports
+some reports need to be modified and I have to request them
+"sometimes there are things that on the surface should be easy but aren't. There are some things that don't make sense about the reporting functions. Like how ""engagement"" is tracked."
+Still learnin
+The tab function doesnt work in all fields
+This is an extra place to go and fill out forms for a job. Not sure if this product can be used for a sole source for all project files and data management. Proposals are limited and not end user customizable.
+When generating proposals the formatting of bullet points is really frustrating
