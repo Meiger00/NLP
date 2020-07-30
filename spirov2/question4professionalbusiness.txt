@@ -1,0 +1,83 @@
+a 'recent' feature
+A counter in the import/update tool that counts the number of fields auto matched. It takes a long time to determine what field is missing in an import. Further, not being able to map fields in an update is frustrating.
+A map of where contacts are located
+Able to merge duplicate entries.
+Add a picker and make it easier to link people and properties together with prospective buyers
+Add maps which is being done
+AI assistance - voice commands or suggestions
+automatically populate data about the customer and company
+Being able to organize tasks in order on Reminder page
+Being able to search something and click enter and it bring me to a page with what I searched instead of just the drop down
+Better email tracking / syncing.
+Better integration into outlook/linkedin sales navigator
+bulk updates to fields
+Conference calling
+Conference calling through the phone
+Ease of use. Make it super intuitive. Get more feedback from customers in real time and make updates to your app on that actionable data. ALL. THE. TIME.
+Easier ability to review and search notes timeline
+Easier Reporting Module.
+Easier Reporting to Clients when we are selling their assets. (For real estate).  Be able to send out a report on who we are talking, and what is the feedback.
+Easier search engine for key words.
+Easy customized fields or edit ability for all current field titles or categories.
+Flexibility
+have an Extension within Outlook. (ex: right now I have to send another email to the AI engine for instance to set a reminder. If the extension could give me a few options right before I send an email out: set reminder, track answer etc.)
+Having the ability to just be notified there is a matching phone number to another contact.  This would ensure we do not have multiple reps calling the same individual.   People will change their email addresses but typically, phone numbers stay the same.
+I struggle with finding/creating specific filters for a search to pull data - but this could be a user error on my end.
+I would improve the contact-list upload method.
+I would like to be able to see when changes were made and by what user.
+I would love to be able to TAB from one field to another across each row when entering a new Company or Contact.  Right now, the TAB feature jumps the cursor all over the webpage.
+I would move back settings button to the menu on the left
+I would not change anything
+I'd like more ability to upload mass data
+import mapping should show what's in the field
+Improving the contact search filters.  currents many of the choices don't really work
+In-house Admin capabilities. Staff is hepful and responsive, but it would help to have more control
+integrating outgoing emails
+It would be useful to upload an excel file with contacts and data without following your template
+Its already in the works - a map.  However, it doesn't quite sound like its going to be beneficial for QUITE some time.  I can download my Spiro data and easily create a Google Map with the fields as is.  Apparently, to get this program up and running, we have to manually input 31k zip codes in order for this to be accurate.
+Just work without issues
+Live updates of the data to the reports
+Making the accounting module easier (and a tablet app)
+making the addition of leads simpler
+Making the app much easier to use.  I don’t like the app at all, so I stay with the Web based version
+Mass text ability.
+Mass text messages
+maybe having everything more together
+More customisation option
+More integration with Outlook
+More sales stages
+More Spiro in Gmail features vs going to the Spiro webpage
+More use with the phone - conference calls, better on the app etc
+My previous comment about Opportunities and having the clients available the way they were before with the checkbox style of adding them to the Opportunity.
+N/a
+Native integrations to some sales enablement tools like seamless, hunter
+Nothing
+Nothing at this time. It's easy to log communication, it syncs with our email accounts, and you can easily set reminders for future follow up.
+On demand training?
+Outlook Connectivity
+Put all information back on one page for opportunities
+Recently this became better, but I don't know if it was due to our settings or due to Spiro. It seemed like it took too long to set up opportunities. I was having to add the contact name and information every time on the opportunity, even though it was already in the system. Now I only have to enter the company name and website address, making it faster. However, it would be nice to have a dropdown to assign the opportunity to the contact without typing things in.
+Reports should be easier to create
+Revise opportunities from one screen
+Right now the contact tabs in the opportunity is confusing my team.
+"Scheduling a set of activities.  For instance, remind me to send an email to my prospect ""John Doe"" every Monday at 1 pm for the next 4 weeks and terminate the activity when the fourth instance has been addressed.  (Of course, all activities would be recorded within the timeline tab...)"
+Simplify the reports
+So far everything is good to me
+System generated reports on specific items I need to manage my team.
+The ability to clone opportunities.
+the ability to do mass field updates on my own
+The ability to modify a report for the individual's view only.
+The ability to see all of our pipelines on the dashboard at once.
+The assistant. The assistant should NOT complete reminders for the wrong people
+the phone integration would work
+The search functionality
+The steps in setting up a reminder on an opportunity while you are creating the opportunity.
+There isn't really anything that I would add or change.
+timeline and reminders back on the same tab.
+Updates to the opportunities
+User support
+Using the spiro ai to extract details from video calls, on platforms such as zoom
+WhatsApp and LinkedIn integration +marketing automation
+When creating a new company, it would be nice to enter the website address (in the website field) and have the phone number and address info pre-populate
+When I am on the phone, it kicks other calls right to voicemail.  Would rather it ring.
+Would love to add more features that sync with Linkedin and Slack.
