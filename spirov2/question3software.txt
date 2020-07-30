@@ -1,0 +1,30 @@
+"- No native support for Multi-Currency
+- Sharing out of Reports is clunky and non-intuitive
+- Delay from CRM to Reports (people close a deal and wonder why it isn't immediately there)"
+Bugs everywhere.   The range from UI bugs, to usability problems, to data integrity problems, to lack of proper traceability made easy. Key analytic functions are also missing and while their is dashboards and reports those area have their own list of bugs and usability challenges.
+Funnel management
+I do not like that the system auto generates reminders for me.  They are annoying and overwhelming.  Maybe this is untrue for other people, but the fact that they are in my pipeline keeps them on my radar.  I sometimes even get reminders for opportunities that I entered or connected with in the same day.
+I find that I must click through multiple tabs to understand the activity within each account.  A bit cumbersome at times.
+Icon sidebar layout
+My colleagues find it difficult to manage certain integrations with Spiro. It's not yet a common software in the eyes of accessory support softwares such as Freshdesk and intercom making us rely on middle softwares  like ChurnZero to make these connections possible. I know one day these integrations will more readily available.
+No ability to do automated email campaigns
+Nothing really. Everything works as intended
+price
+Really bad contact sorting, need to scroll to find key contact. At any given time I may have 50 contacts in an account, but only talk to 1 or 2 actively,those should be readily accessible, top of the list.
+relevant user interface pieces are really small, not a lot of real estate space for the places we work in most often, usability seems to have bugs often like I have to retype things in or the pages load slowly so I have to refresh to make sure I'm seeing information correctly. There's also no Help button or Customer Support in app, only a very basic FAQ.
+reporting - not connected to the live data
+reporting does not click back to the actual system record
+reporting is not linked back to records
+Reporting seems fragmented from actual CRM, global search functionality only showing limited results
+reports if I need to run a report in a state the reporting system jumps to a different page that doesn't connect to spiro
+Seems to be a huge amount of duplicates, Not a good place to get an overview of an account, opportunities aren't very detailed. no place for a good sense of whether the customer will renew or not.
+That annoying voip renew client thing when i log back and the absence of seamless sync with  hubspot
+That I cannot make a call thru the app without having a minor interruption (call cuts out when an incoming call is received). Minor inconvenience but annoying nonetheless.
+The assistant gets annoying with too many alerts for the same account
+The lack of integration with ChurnZero
+The overview page is a bit confusing with too many tasks and information
+The various bugs
+user friendliness
+UX - so many little tweaks need to happen. embrace the keyboard - using the mouse for everything sucks
+we often have to call support to figure out how to do things
+Would like more filtering on management reports
