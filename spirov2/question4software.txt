@@ -1,0 +1,28 @@
+Native Multi-Currency support - I know it's on the roadmap but would love to see that ASAP
+ability to see all notes from timeline across company, opportunity and contact records.
+be able to see timeline items in both contacts and companies
+being able to see notes and communications across all accounts, opportunities & contacts without haven't to switch to each section.
+Better data integrity - to help remove/ prevent all the duplicates
+Better sync of information with other tools such as CZ
+chat in Spiro, email squence, making email in spiro sucks, why are campaigns only 500 leads ... , better way to moves deals along to have more vision.
+Fix the data integrity problems. I have now seen 5 cases where the number either shown in pipe, shown on a dashboard, or exported is either wrong, or not rolled up right, or is stale - modern tools should have interactive data based on the current data state - not stale.
+I would add more integrations with common customer experience suite softwares so that the connection between support, sales, and customer success is more smooth and connected, making the entire customer journey visible to all parties involved.
+I would like to be able to add photos and emojis when texting.
+I wouldn't have anything changed at the moment, I'm comfortable with the system as is
+Improve UI (so much unused space that you can't adjust and the pieces where you input data is so small) so it's easier to work in day to day.
+Include third-party widgets like having a ChurnZero widget appear in Spiro so all team members can see valuable visulizations only stored in ChurnZero.
+less clutter and popups on screen
+Make it slightly easier to build reports.  Not as intuitive as other CRMs I've used in the past
+Manual config of the email connectivity and what it peers into the mailbox for.
+Missing a lot of functionality. Hard to pick one.
+More functional workflow for calling and interacting with key decision makers.
+More intuitive.  Ability to create dashboards, graphs more easily
+more out of the box integrations
+No real tracking of information for client. Integration of client social media or keyword scrapes online would be helpful.
+Nothing
+nothing obvious to me
+Nothing really
+Put extenstions into main number. Also, be able to have several numbers at the company level (main number, lab number and with contact number at contact level).
+Sequencing capabilities
+SEQUENCING EMAILS
+Thats a tough one
