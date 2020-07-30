@@ -1,0 +1,88 @@
+"1. If a call is made through Spiro, whether it be the dial pad to a new number, on the app or desktop, or a call is received from a number not already registered to an existing contact, more often than not m, at the conclusion of the call, the option to disposition does not appear.
+1.1 The above would be less of an issue if you could see and retroactively disposition a call, but it is extremely disappointing that you cannot. 
+
+So let's say Someone gets my business card. They call me and we have a great conversation but Spiro doesn't allow me to disposition. I now have no record of the call ever taking place(I'd have to go through several hoops to find it in our VOIP provider), so now not only have I lost that person's number, but on a report to upper management, my activity nonexistent for the duration of the call, and therefore my statistics like number of calls made, calls connected, talk time etc are rendered near useless. At best unreliable."
+Ability to manage contacts efficiently
+am just starting to use it more often and haven't formed an opinion
+App
+App is a little wonky
+app somewhat difficult to navigate
+"Auto fill in doesn't help, Difficultly in adding groups of contacts, Want to add 6 people from same site should be easier, would like area for my custom notes that others can't see when they are using same account, lots of ""white"" space on pages (would like to slightly custom how account or customer show up on my page), want to see ""big picture"" of parent/child accounts to make sure all is correct, same for pulling up location(s) to identify correct contact list."
+Card reader on app doesnt work well
+Certain functionalities need to be hard-coded (can't be changed in the CMS or back-end, and to be honest, I get it, but it's still frustrating. But I get it.
+Dashboards can be a bit tricky, but once they are set up, it is pretty easy.
+Data input capabilities.  There is a lot of duplication.
+Difficulty connecting to our quoting tool and ERP system
+Difficulty in displaying my pipeline the way I want when reviewing opportunities (e.g. in a meeting)
+entering leads into spiro. the new screen flow is not good
+GETTING USED TO ITS USE
+"Hard to give a direct answer since it's so new to us as a company. I've been having trouble using the ""call"" feature from my Mac (call not connecting and/or dropping randomly), but that could also be a problem with the Mac, not the platform (since calls work well with my phone using Spiro)"
+I don't like the fact that you have to enter a new company, then a new contact, and then an opportunity. It would be nice to do it all in one place
+I think seeing what those on my team did each day to those opportunities that are mine
+I use Spiro as our CRM system. So, it holds all of the information on our candidates that apply to the company. Because I interview many candidates coming from the same company, the Opportunity tracking can get confusing. I understand that it should be able to be tracked by the individual Contact, but if I'm interviewing 5 candidates from the same company, they are all listed as Contacts under that Opportunity (company) and that does get confusing when tracking/searching for the candidates.
+I wish it would integrate with Outlook a bit better to transfer contacts back and forth between Spiro and Outlook
+I would change the no spell check in the notes section, and I would love to be able to have an option to have all of the notes (for every account) categorized by most recent instead of having to search an account to find the notes. That way we have our most recent notes and to do's right in the same place
+Ideally the reports would update faster than next day
+importing data from previous software
+Information sometimes isn't loaded correctly
+It can be clunky and the search bar is difficult to use. I can't find half of my contacts sometimes. Also, it would be nice to be able to reverse an import without having to contact you.
+It does not completely integrate with Outlook (ability to tag which emails to track vs. all, sync Outlook tasks, it doesn't load appointments I set in Outlook, etc.)
+It doesn't document all emails that are associated with accounts listed.
+It is another additional platform that our team must use in addition to our separate quote and separate order entry and management systems.  I wish Spiro tied into our quoting system better and more intuitively.
+it is very slow to load and does not have a lot of customer support features
+it remains a customer-based product, while my work is primarily opportunity-based across many customers.
+It's buggy. When I look up a company account the timeline is mixed with many communications from other companies. The buggy nature of this is very annoying.
+It's great for company provided leads. For when I'm prospecting myself, hunting, it's unnecessary added work. i have to create contact and company cards for someone that may reject me in 2 seconds? If I don't add them, my activity won't be logged and it will look like I wasn't even working. That is ridiculous.
+Its complex to find ustomers opportunities and logging the activities. An easier way to colaborate with other team members
+Lack of Reports
+Lack of transparency regarding data usage
+lots of technical difficulties lately
+My only complaint would be sometimes there are minor bugs like the contact information not updating when selecting a new contact. All very minor. Overall I really enjoy spiro and feel that it is one of the better CRMs that I have used.
+not able to get every thing that I do in a neat and easy report every week. it does not capture all of my in person meetings on the report. only the scheduled meetings thu email.
+Not all of the windows cross talk
+Not being able to send out a mass email with an attachment.
+not Office integrated
+nothing
+Nothing in particular, it works well for what i need.
+Nothing that's not to be expected as it's new and we are working out the kinks, which are that least favorite part, together.
+nothing yet
+Opportunities link emails in timeline not associated with that project (opportunity)
+Overall it doesn't seem as fine tuned as other CRMs in the little details.
+Pasted in emails are not accepted or recognized. Have to manually type. Leads from same company should have an easy way to click and get company address in
+Phone app isn't the greatest compared to navigating and searching key words on my cell phone
+reporting is really difficult to use and would be very helpful
+Reports
+Restricted to drop down tables when more information needs to be added.
+Should be able to start with previous entry if nearly the same.
+Sometimes overwhelming
+Sometimes the emails do not get connected to the files.
+spiro search engine is not great.  Hard to find things off of keywords.  must be exact
+That I am limited in the search field
+That I can only see 15 entries per page for companies, opportunities, etc. When I'm looking through opportunities or making updates to them I'd like to be able to continually scroll or be able to see more than 15 records per page. Having to go from page to page takes away some efficiencies.
+"The ""relational database or ai"" needs some tweaking to fine tune the relationship between companies and contacts."
+The AI is not always good at getting complex info into the system...for example if one contact at a company is working on multiple opportunities, the AI struggles to discern and simply puts all emails from the contact into all opportunities.
+the amount of reminders
+the assistant - jewish grandmother. I'm jewish and I don't find this funny.
+The assistant is okay
+The assistant!
+The call drops when your on a call and receive a call and does not come back until you hang up the incoming call.
+The calls drop a lot, there’s also a bad connection
+the card scan option for my cell phone
+The connectivity issues if you are not connected or have really strong wifi
+The consolidation on the browser and the skinny slider bar.  If we had the capability to customize our individual panes it would be nice. Such as the ability to drag and drop sort columns to be able to see the ones we use individually most often, Not globally.
+the customer service platform
+The issues related to different devices and browsers that cause my staff to have trouble with Spiro app on different phones.  This is not a Spiro problem, but rather the large variations of devices and operating systems.
+the learning curve to fully implement
+"The relationship of ""contacts"" to Parent Company versus unique location/branch is cumbersome"
+The reports
+The reports are complicated
+This may be more of an internal/employer issue, but I'd like the ability to search an account by our specific customer ID numbers. So that when I enter a prospect , I can cross-reference with names/numbers in an effort to prevent duplicate customer entries.
+to hard to find items
+visibility of teams opportunities to compare info
+Voice over IP not up to speed yet!
+VoIP
+We are having a really hard time customizing it to fit our needs. We have also noticed that it is not loading properly and is saying we have no information when we should have some
+We don't reliably capture all activity that takes place
+Wish contacts could also be entered in accounts
+would like an easy way to import existing contact info
+Would like home screen to be customizable
