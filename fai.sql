@@ -31,18 +31,6 @@ FROM Inventory_Tab
 WHERE ItemName LIKE '%Bicycle'
 ORDER BY ItemName;
 
--- QUESTION 3 ALTERNATE: Create an inventory report of all bicycles (ITEM_NAME 
--- that includes “Bicycle”) and # of quantity on hand (QTY_ON_HAND). 
--- (If you ARE supposed to COMBINE the rows for 20 in. Bicycles)
--- SOLUTION: Select the ItemName and QuantityOnHand (using the SUM() function) 
--- in the Inventory_Tab table where values for the attribute ItemName are strings
--- that end in "Bicycle". Group the results by ItemName.
-SELECT ItemName as "Bicycle Name", SUM(QuantityOnHand) as "Quantity"
-FROM Inventory_Tab
-WHERE ItemName LIKE '%Bicycle'
-GROUP BY ItemName
-ORDER BY ItemName;
-
 -- QUESTION 4: List all sales persons and their Year-to-Date sales performance 
 -- (sum of SALES_YTD of each SALES_PERSON) using vector aggregate.
 -- SOLUTION: Select the ABCSalesPerson and YearToDateSales for each Salesperson
