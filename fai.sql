@@ -22,7 +22,7 @@ WHERE SO_DATE LIKE '%2019';
 -- includes “Bicycle”) and # of quantity on hand (QTY_ON_HAND). 
 SELECT ItemName as "Bicycle Name", QuantityOnHand as "Quantity"
 FROM Inventory_Tab
-WHERE ItemName LIKE '%Bicycle'
+WHERE ItemName LIKE '%Bicycle%'
 ORDER BY ItemName;
 
 -- QUESTION 4: List all sales persons and their Year-to-Date sales performance 
@@ -40,7 +40,7 @@ ORDER BY CustomerState;
 
 -- QUESTION 6: List all items (ITEM_NAME) with quantity on hand (Qty_On_Hand) 
 -- and the number of units sold (Qty_Ordered).
-SELECT inv.ItemName as "Item Name", inv.QuantityOnHand as "Quantity On QuantityOnHand",
+SELECT inv.ItemName as "Item Name", inv.QuantityOnHand as "Quantity On Hand",
 COALESCE(SUM(ordl.Quantity),0) as "Number of Units Sold"
 FROM Inventory_Tab inv LEFT OUTER JOIN Order_Line_Tab ordl ON
 inv.item_number = ordl.item_number
